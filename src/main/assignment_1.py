@@ -1,7 +1,4 @@
-import numpy as np
 import struct
-import math
-
 
 binary_number = 0b0100000001111110101110010000000000000000000000000000000000000000
 
