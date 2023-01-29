@@ -5,5 +5,5 @@
 1. Did not use requirements.txt because I did not require any third party libraries for this assignment
 2. Run the python program
 ```
-$ python3 src/main/intro_to_python.py
+$ python3 src/main/assignment_1.py
 ```
